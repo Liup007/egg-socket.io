@@ -21,6 +21,7 @@
 [download-url]: https://npmjs.org/package/egg-socket.io
 
 egg plugin for socket.io 4.8.1
+更新版本
 
 ## Install
 
