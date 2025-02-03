@@ -21,6 +21,7 @@
 [download-url]: https://npmjs.org/package/egg-socket.io
 
 egg 框架的 socket.io 插件
+更新了socket.io 4
 
 ## 安装
 
