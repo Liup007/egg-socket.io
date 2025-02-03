@@ -20,7 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-socket.io.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-socket.io
 
-egg plugin for socket.io
+egg plugin for socket.io 4.8.1
 
 ## Install
 
